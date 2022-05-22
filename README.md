@@ -1,5 +1,6 @@
 # blockchain-in-rust
-Blockchain을 rust로 구현해보며 rust와 blockchain 모두의 이해도를 높이는 repo 입니다.
+Blockchain을 rust로 구현해보며 rust와 blockchain 모두의 이해도를 높이는 repo 입니다.   
+다음의 [블로그 포스트](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)를 보며 작성합니다.
 
 # Libraries
 - Tokio: Rust에서 비동기 프로그래밍을 위한 라이브러리
