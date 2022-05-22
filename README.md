@@ -7,3 +7,5 @@ Blockchain을 rust로 구현해보며 rust와 blockchain 모두의 이해도를 
   - net, io, sync 등 비동기를 위한 기능 제공
   - [참고 1: tokio github](https://github.com/tokio-rs/tokio)
   - [참고 2: RUST 로 공부하는 비동기 프로그래밍 시리즈](https://velog.io/@pandawithcat/Rust-Tokio%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- libp2p: Rust에서 P2P Networking layer 개발을 위해 사용
+  - [참고: libp2p github](https://github.com/libp2p/rust-libp2p)
